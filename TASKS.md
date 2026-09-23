@@ -8,10 +8,10 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 
 | # | Heiti verks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 | örugg innskráning       | Innskráningarhlekkir eru á https                         |       http://site.com/login, https://site.com/login                      |
-| 2 | tæma körfu  |   Notandinn á að geta tæmt alla hluti úr körfunni í einu|  https://site.com/cart                          |
-| 3 |             |                                |                             |
-| 4 |             |                                |                             |
+| 1 | Leita að stopp | notandi getur leitað að stoppustöð | https://www.straeto.is/ |
+| 2 | Velja línu  |  Notandi á að get valið sér línu |  https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5                          |
+| 3 | Kaupa miða | Notandi á að geta keypt miða | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
+| 4 |  |                                |                             |
 | 5 |             |                                |                             |
 | 6 |             |                                |                             |
 | 7 |             |                                |                             |
