@@ -1,7 +1,7 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
-**Hópanúmer:** _kennari_  
-**Nöfn nemenda:** _a_, _b_
+**Hópanúmer:** _Group 2_  
+**Nöfn nemenda:** _Davíð Ingólfur Jóhannsson_, _Embla Líf Andradóttir_, _Friðrik Márus Júlíusson_
 
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið þau og notið **verk-númer** þegar þið skráið mál.
