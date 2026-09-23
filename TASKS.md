@@ -11,7 +11,7 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 | 1 |  |  |  |
 | 2 |  |  |  |
 | 3 | Ekki hægt að kaupa miða| Notandi finnur enga leið til að kaupa miða á vefsíðuni, sömu  | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
-| 4 | Deila slóð af leið |  |                             |
+| 4 | Deila slóð af leið | Notandi vill deila slóð af leiðini, en fær bar nýjan glugga sem opnast | https://www.straeto.is/skipuleggja-ferd/leita/4caef636f051/4 |
 | 5 |             |                                |                             |
 | 6 |             |                                |                             |
 | 7 |             |                                |                             |
