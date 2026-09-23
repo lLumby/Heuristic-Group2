@@ -8,9 +8,9 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 
 | # | Heiti verks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 | Leita að stopp | notandi getur leitað að stoppustöð | https://www.straeto.is/ |
-| 2 | Velja línu  |  Notandi á að get valið sér línu |  https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5                          |
-| 3 | Kaupa miða | Notandi á að geta keypt miða | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 | Ekki hægt að kaupa miða| Notandi finnur enga leið til að kaupa miða á vefsíðuni, maður ver | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
 | 4 |  |                                |                             |
 | 5 |             |                                |                             |
 | 6 |             |                                |                             |
