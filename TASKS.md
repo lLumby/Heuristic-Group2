@@ -10,9 +10,9 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 |---|-------------|--------------------------------|-----------------------------|
 | 1 | Scrolla upp/niður síðuna | Notandi vill scrolla niður eða upp siðunna, þegar músin kemur á kortið, þá stækkar/mínkar kortið | https://www.straeto.is/ |
 | 2 | Leita að ferð | Notandi vill leita að bestu línu til að taka á áfangastað sem óskað eftir er | https://www.straeto.is/ |
-| 3 | Ekki hægt að kaupa miða| Notandi finnur enga leið til að kaupa miða á vefsíðuni, sömu  | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
+| 3 | Ekki hægt að kaupa miða | Notandi finnur enga leið til að kaupa miða á vefsíðuni,  | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
 | 4 | Deila slóð af leið | Notandi vill deila slóð af leiðini, en fær bar nýjan glugga sem opnast | https://www.straeto.is/skipuleggja-ferd/leita/4caef636f051/4 |
-| 5 |             |                                |                             |
+| 5 |  |                                |                             |
 | 6 |             |                                |                             |
 | 7 |             |                                |                             |
 
