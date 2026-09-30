@@ -12,7 +12,7 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 | 2 | Leita að ferð | Notandi vill leita að bestu línu til að taka á áfangastað sem óskað eftir er | https://www.straeto.is/ |
 | 3 | Ekki hægt að kaupa miða | Notandi finnur enga leið til að kaupa miða á vefsíðuni,  | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
 | 4 | Deila slóð af leið | Notandi vill deila slóð af leiðini, en fær bar nýjan glugga sem opnast | https://www.straeto.is/skipuleggja-ferd/leita/4caef636f051/4 |
-| 5 |  |                                |                             |
+| 5 | Pöntunarþjónusta með strætó | Notandi vill komast til breiðhellu t.d., en þarf að panta sér strætó í gegnum hreyfill með símtali (30 min fryrirfram) |  |
 | 6 |             |                                |                             |
 | 7 |             |                                |                             |
 
