@@ -10,10 +10,7 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 |---|-------------|--------------------------------|-----------------------------|
 | 1 | Scrolla upp/niður síðuna | Notandi vill scrolla niður eða upp siðunna, þegar músin kemur á kortið, þá stækkar/mínkar kortið | https://www.straeto.is/ |
 | 2 | Leita að ferð | Notandi vill leita að bestu línu til að taka á áfangastað sem óskað eftir er | https://www.straeto.is/ |
-| 3 | Ekki hægt að kaupa miða | Notandi finnur enga leið til að kaupa miða á vefsíðuni,  | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
-| 4 | Deila slóð af leið | Notandi vill deila slóð af leiðini, en fær bar nýjan glugga sem opnast | https://www.straeto.is/skipuleggja-ferd/leita/4caef636f051/4 |
-| 5 | Pöntunarþjónusta með strætó | Notandi vill komast til breiðhellu t.d., en þarf að panta sér strætó í gegnum hreyfill með símtali (30 min fryrirfram) | https://www.straeto.is/en/route-planner/search/9af665226356/0 |
-| 6 |             |                                |                             |
-| 7 |             |                                |                             |
-
+| 3 | Kaupa sér miða | Notandi vil kaupa sér miða fyrir strætó | https://www.straeto.is/skipuleggja-ferd/leita/25dc70ccc1d5/2 |
+| 4 | Deila slóð af leið | Notandi vill deila slóð af leiðini sem hann var búin að finna | https://www.straeto.is/skipuleggja-ferd/leita/4caef636f051/4 |
+| 5 | upplesyngar um Strætó | Notandi vill finna upplesyngar um strætó þjónustu | https://www.straeto.is/notendaupplysingar/spurt-og-svarad |
 > Dæmi um verk: „Leita að vöru og setja í körfu“, „Skrá nýjan notanda“, „Breyta lykilorði“ o.s.frv.
